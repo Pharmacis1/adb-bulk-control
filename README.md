@@ -26,8 +26,10 @@ Open `logic.ps1` and edit the top section to match your target application:
 $TargetPackage  = "com.your.package.name"
 $TargetActivity = ".MainActivity" 
 $NTPServer      = "pool.ntp.org"
+```
 
-Usage
+## Usage
+
 Run START.bat.
 
 Paste list of IP addresses (the tool extracts IPs from mixed text).
