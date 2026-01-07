@@ -30,8 +30,8 @@ $NTPServer      = "pool.ntp.org"
 
 ## Usage
 
-Run START.bat.
+1. Run START.bat.
 
-Paste list of IP addresses (the tool extracts IPs from mixed text).
+2. Paste list of IP addresses (the tool extracts IPs from mixed text).
 
-Select an action and click RUN.
+3. Select an action and click RUN.
