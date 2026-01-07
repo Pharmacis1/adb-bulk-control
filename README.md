@@ -1,3 +1,5 @@
+![AI Assisted](https://img.shields.io/badge/AI-Assisted-blue?style=flat-square&logo=openai)
+
 # Android ADB Control Center
 
 A lightweight PowerShell GUI tool for bulk management of Android devices via ADB (Android Debug Bridge). 
